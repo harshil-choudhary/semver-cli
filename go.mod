@@ -1,4 +1,4 @@
-module github.com/harshil-choudhary/semver-cli-update
+module github.com/harshil-choudhary/semver-cli
 
 go 1.14
 
